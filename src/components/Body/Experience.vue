@@ -19,7 +19,7 @@
                 <div class="text-base pb-2">
                 Worked primarily as a framework developer, maintaining the core architecture on which company applications were built, ensuring clean, reusable, and scalable code.
                 Managed and enhanced internal tools, including a code generation system and a Microsoft Visual Studio extension for web page design.
-                Contributed to large-scale codebase restructuring initiatives, improving organization and performance, resulting in faster project build times:which.
+                Contributed to large-scale codebase restructuring initiatives, improving organization and performance, resulting in faster project build times.
                 </div>
               </div>
               <div class="pl-4">
