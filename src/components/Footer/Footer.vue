@@ -6,6 +6,6 @@
           <a className="p-3 underline" target="none" href="https://www.linkedin.com/in/afonso-pinto/">LinkedIn</a>
           <a className="p-3 underline" target="none" href="/portfolio/CV_AfonsoPinto.pdf">CV(PDF)</a>          
         </div>
-        <div className="text-center">Afonso Pinto 2024</div>
+        <div className="text-center">Afonso Pinto 2025</div>
       </div>
 </template>
