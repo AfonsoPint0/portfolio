@@ -1,14 +1,12 @@
 <template>
-  <div class="overflow-hidden">
-    <div
-      ref="elementRef"
-      class="transition duration-1000 delay-350"
-      :class="[
-        isVisible ? 'translate-x-0 blur-none' : baseHiddenClass
-      ]"
-    >
-      <slot />
-    </div>
+  <div
+    ref="elementRef"
+    class="transition duration-1000 delay-150"
+    :class="[
+      isVisible ? 'translate-x-0 blur-none' : baseHiddenClass
+    ]"
+  >
+    <slot />
   </div>
 </template>
 

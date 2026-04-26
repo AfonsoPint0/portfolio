@@ -47,7 +47,7 @@ onMounted(loop)
   <div class="h-screen p-2 flex items-center justify-center">
     <div class="inline-block align-bottom">
       <div class="text-3xl md:py-1 py-2"><span :class="highlight ? 'bg-zinc-400 text-white' : ''">{{ displayedWord }}</span> Developer</div>
-      <div class="text-xl md:py-1 py-2">Currently working as a Software Engineer at Capgemini</div>
+      <div class="text-xl md:py-1 py-2">Currently working as a Software Developer at VTXRM</div>
     </div>
   </div>
 </template>

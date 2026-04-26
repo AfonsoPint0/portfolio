@@ -7,8 +7,10 @@
 
 
 <template>
-  <Hero />
-  <Intro />
-  <Experience />
-  <Certificates />
+  <div class="p-5 overflow-x-auto">
+    <Hero />
+    <Intro />
+    <Experience />
+    <Certificates />
+  </div>
 </template>

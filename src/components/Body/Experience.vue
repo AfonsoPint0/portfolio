@@ -11,7 +11,30 @@
         <AppearFromRight>
           <li class="mb-10 ms-4">
             <div class="absolute w-3 h-3 rounded-full mt-1.5 -start-1.5 bg-zinc-600 dark:bg-white"></div>
-            <time class="mb-1 text-base font-normal leading-none text-zinc-600 dark:text-zinc-400">Sep 2023 - present</time>
+            <time class="mb-1 text-base font-normal leading-none text-zinc-600 dark:text-zinc-400">Jul 2024 - present</time>
+            <div class="border-2 hover:border-dotted p-2 dark:border-white border-zinc-700">
+              <div class="text-2xl">VTXRM</div>                        
+              <div class="pl-1">
+                <div class="text-lg pb-1">Software Developer / Consultant</div>
+                <div class="text-base pb-2">
+                Worked primarily as a framework developer, maintaining the core architecture on which company applications were built, ensuring clean, reusable, and scalable code.
+                Managed and enhanced internal tools, including a code generation system and a Microsoft Visual Studio extension for web page design.
+                Contributed to large-scale codebase restructuring initiatives, improving organization and performance, resulting in faster project build times:which.
+                </div>
+              </div>
+              <div class="pl-4">
+                <div class="text-base"> - Languages: C# | JS | SQL | CSS | Shell</div>
+                <div class="text-base"> - Frameworks: .NET | .NET Core | WebForms</div>
+                <div class="text-base"> - Version control: TFS | Git</div>
+                <div class="text-base"> - Other tools: Github Copilot</div>
+              </div>
+            </div>
+          </li>
+        </AppearFromRight>
+        <AppearFromRight>
+          <li class="mb-10 ms-4">
+            <div class="absolute w-3 h-3 rounded-full mt-1.5 -start-1.5 bg-zinc-600 dark:bg-white"></div>
+            <time class="mb-1 text-base font-normal leading-none text-zinc-600 dark:text-zinc-400">Sep 2023 - Jul 2024</time>
             <div class="border-2 hover:border-dotted p-2 dark:border-white border-zinc-700">
               <div class="text-2xl">Capgemini</div>                        
               <div class="pl-1">
