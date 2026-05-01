@@ -24,7 +24,7 @@ onUnmounted(() => {
 
 <template>
   <nav>
-    <div class="absolute p-5 w-full flex justify-between">
+    <div class="p-7 max-w-5xl absolute w-full flex justify-between">
         <div class="text-2xl">
             <a>Afonso Pinto</a>
         </div>

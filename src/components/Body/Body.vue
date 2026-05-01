@@ -7,7 +7,7 @@
 
 
 <template>
-  <div class="p-5 overflow-x-auto">
+  <div class="p-5 overflow-x-hidden">
     <Hero />
     <Intro />
     <Experience />
