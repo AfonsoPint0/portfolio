@@ -44,10 +44,10 @@ onMounted(loop)
 </script>
 
 <template>
-  <div class="h-screen p-2 flex items-center justify-center">
+  <div class="h-screen flex items-center">
     <div class="inline-block align-bottom">
-      <div class="text-3xl md:py-1 py-2"><span :class="highlight ? 'bg-zinc-400 text-white' : ''">{{ displayedWord }}</span> Developer</div>
-      <div class="text-xl md:py-1 py-2">Currently working as a Software Developer at VTXRM</div>
+      <div class="pb-2 md:pb-4 text-3xl md:text-5xl"><span :class="highlight ? 'bg-zinc-400 text-white' : ''">{{ displayedWord }}</span> Developer</div>
+      <div class="text-xl md:text-2xl">Currently working as a Software Developer at VTXRM</div>
     </div>
   </div>
 </template>
