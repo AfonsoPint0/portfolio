@@ -72,7 +72,7 @@
               <div class="pl-1">
                 <div class="pb-3 text-xl md:text-2xl">Database administrator</div>
                 <div class="pb-3 text-md md:text-xl">
-                  Managed and maintained a hybrid database architecture using SQL and SAP databases, ensuring reliable data access and integration across systems.
+                  Managed and maintained a hybrid data architecture using both SQL and SAP, ensuring reliable data access and integration across systems.
                 </div>
               </div>
               <div class="pl-1 md:pl-4 text-lg">
