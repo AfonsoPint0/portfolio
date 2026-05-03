@@ -5,7 +5,7 @@
 
 <template>
   <Appear>
-    <div class="py-10 md:py-20">
+    <div class="py-10 md:py-15">
       <div class="pb-8 text-3xl md:text-5xl flex justify-center">Experience</div>
       <ol class="relative border-s border-zinc-800 dark:border-zinc-500">
         <AppearFromRight>
@@ -16,10 +16,10 @@
               <div class="text-3xl md:text-4xl">VTXRM</div>                        
               <div class="pl-1">
                 <div class="pb-3 text-xl md:text-2xl">Software Developer / Consultant</div>
-                <div class="pb-3 text-md md:text-lg">
-                Worked primarily as a framework developer, maintaining the core architecture on which company applications were built, ensuring clean, reusable, and scalable code.
-                Managed and enhanced internal tools, including a code generation system and a Microsoft Visual Studio extension for web page design.
-                Contributed to large-scale codebase restructuring initiatives, improving organization and performance, resulting in faster project build times.
+                <div class="pb-3 text-md md:text-xl">
+                  Working primarily as a framework developer, maintaining the core architecture on which other applications rely and ensuring clean, reusable code that other developers rely on every day.
+                  Here I also maintain internal tools used on a daily basis, such as a code generation tool and a low-code web page design Visual Studio extension, among others.
+                  Additionally, I contributed to large-scale codebase restructuring initiatives aimed at improving organization and performance.
                 </div>
               </div>
               <div class="pl-1 md:pl-4 text-lg">
@@ -39,7 +39,12 @@
               <div class="text-3xl md:text-4xl">Capgemini</div>                        
               <div class="pl-1">
                 <div class="pb-3 text-xl md:text-2xl">Software Engineer / Analyst</div>
-                <div class="pb-3 text-md md:text-lg">Development of customized cloud applications primarily through the Microsoft Power Platform.</div>
+                <div class="pb-3 text-md md:text-xl">
+                  Developed customized cloud applications primarily using the Microsoft Power Platform and Azure cloud infrastructure.
+                </div>
+              </div>
+              <div class="pl-1 md:pl-4 text-lg">
+                <div> - Technologies: Power Apps | Power Automate | Azure</div>
               </div>
             </div>
           </li>
@@ -52,7 +57,10 @@
               <div class="text-3xl md:text-4xl">FEGIME</div>
               <div class="pl-1">
                 <div class="pb-3 text-xl md:text-2xl">Full-Stack Developer</div>
-                <div class="pb-3 text-md md:text-lg">Planned, developed, deployed, and advertised a web application geared towards providing a suite of tools for daily use by partners within the group.</div>
+                <div class="pb-3 text-md md:text-xl">
+                  Designed, developed, and deployed an internal .NET web application providing a suite of operational tools for catalog management, stock control, employee data, documentation, and company communications, supported by a set of REST APIs.
+                  Some of these APIs were later extended and adopted by external partner systems as a shared integration layer.
+                </div>
               </div>
               <div class="pl-1 md:pl-4 text-lg">
                 <div> - Languages: C# | JS | HTML | CSS | SQL</div>
@@ -63,7 +71,9 @@
               <div class="w-full border-t border-dotted border-zinc-200 my-4 pb-1"></div>
               <div class="pl-1">
                 <div class="pb-3 text-xl md:text-2xl">Database administrator</div>
-                <div class="pb-3 text-md md:text-lg">Managed both SQL and SAP HANA databases, overseeing their administration, optimization, and integration for efficient data management and operations.</div>
+                <div class="pb-3 text-md md:text-xl">
+                  Managed and maintained a hybrid database architecture using SQL and SAP databases, ensuring reliable data access and integration across systems.
+                </div>
               </div>
               <div class="pl-1 md:pl-4 text-lg">
                 <div> - Languages: SQL | SAP</div>                     
@@ -79,7 +89,9 @@
                 <div class="text-3xl md:text-4xl">Digital Xperience</div>
                 <div class="pl-1">
                   <div class="pb-3 text-xl md:text-2xl">Frontend Developer</div>
-                  <div class="pb-3 text-md md:text-lg">Contributed as a Front-End Developer by crafting dynamic websites.</div>
+                  <div class="pb-3 text-md md:text-xl">
+                    Built responsive frontend websites using a mix of low-code and traditional web development tools, applying modern responsive design patterns.
+                  </div>
                 </div>
                 <div class="pl-1 md:pl-4 text-lg"> 
                   <div> - Languages: HTML | CSS</div>                    
@@ -96,7 +108,9 @@
                   <div class="text-3xl md:text-4xl">Web&Gamble</div>
                   <div class="pl-1">
                     <div class="pb-3 text-xl md:text-2xl">Full-Stack Developer</div>
-                    <div class="pb-3 text-md md:text-lg">Planned, developed and deployed a billing application tailored for touch devices.</div>
+                    <div class="pb-3 text-md md:text-xl">
+                      Designed and developed an internal billing application optimized for touch devices, with a strong focus on speed and reliability.                    
+                    </div>
                   </div>
                   <div class="pl-1 md:pl-4 text-lg">
                     <div> - Languages: PHP | HTML | CSS | SQL</div>

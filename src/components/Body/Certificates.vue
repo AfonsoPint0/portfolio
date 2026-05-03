@@ -4,7 +4,7 @@
 
 <template>
   <Appear>
-    <div class="pt-10 md:pt-20 md:pb-10">
+    <div class="py-10 md:py-15">
       <div class="pb-8 text-3xl md:text-5xl flex justify-center">Certificates</div>
       <div class="mb-4 border-2 hover:border-dotted p-2 dark:border-white border-zinc-700">                                
         <div class="flex justify-between">
